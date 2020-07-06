@@ -4,7 +4,7 @@ pragma experimental ABIEncoderV2;
 
 //import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 //import "ERC20Interface.sol"
-//import "./ERC20Interface.sol";
+//import "./IERC20Interface.sol";
 
 interface Structs {
     struct Val {
