@@ -3,7 +3,8 @@ pragma solidity ^0.5.0;
 pragma experimental ABIEncoderV2;
 
 //import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-import "ERC20Interface.sol"
+//import "ERC20Interface.sol"
+import "./ERC20Interface.sol";
 
 interface Structs {
     struct Val {
